@@ -1,4 +1,4 @@
-#Landmark Recognition with AI App
+# Landmark Recognition with AI App
 
 App that matches the landmark you upload against eiffel,goldengate or kukulcan and gives you the probability of it.(Dataset and training of 10 images per landmark)
 
