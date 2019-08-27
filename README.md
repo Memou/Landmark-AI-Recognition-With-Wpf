@@ -4,4 +4,4 @@ App that matches the landmark you upload against eiffel,goldengate or kukulcan a
 
 Made using WPF,webapi connection to microsoft customvision.ai api,using Blender for the simple animations.
 
-<a href="https://imgur.com/TJ2HIvQ"><img src="https://imgur.com/TJ2HIvQ.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/an4RNff"><img src="https://imgur.com/an4RNff.gif" title="source: imgur.com" /></a>
