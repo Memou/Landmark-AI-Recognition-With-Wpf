@@ -19,7 +19,7 @@ namespace LandmarkAi.Classes
         public string project { get; set; }
         public string iteration { get; set; }
         public DateTime created { get; set; }
-        public IList<Prediction> predictions { get; set; }
+        public List<Prediction> predictions { get; set; }
     }
 
 }
